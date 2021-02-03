@@ -3,6 +3,7 @@ body{
     margin: 0;
     text-align: center;
     background-color: #000000;
+    color: white;
 }
 img {
     max-width: calc(100vw - 90px);
