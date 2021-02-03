@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: #000000;
+}
+img {
+    max-width: calc(100vw - 90px);
+    width: 600px;
+}
